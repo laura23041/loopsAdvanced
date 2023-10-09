@@ -8,7 +8,7 @@ public class loopsAdvanced {
         String answer = "Laura";
         int guessCount = 0;
         
-
+        System.out.println("Thank you for playing this name quessing game!");
         
         while (true) {
             
